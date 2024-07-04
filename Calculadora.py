@@ -4,7 +4,7 @@ while (a != 0):
     c = int(input ("1 para somar, 2 para subtrair, 3 para multipicar ou 4 para dividir: "))
     if (c == 1):
         resultado =int(a+b)
-        print ("a some de", a, "com", b, "é igual a:", resultado)
+        print ("a soma de", a, "com", b, "é igual a:", resultado)
     elif (c == 2):
         resultado =int(a-b)
         print ("a subitração de", a, "com", b, "é igual a:", resultado)
